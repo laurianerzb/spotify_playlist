@@ -12,7 +12,7 @@
 - [Author](#author)
 
 ## Description
-This program This Python script allows you to create a private Spotify playlist 
+This program allows you to create a private Spotify playlist 
 containing the Billboard Hot 100 songs from a specific date. It scrapes the 
 Billboard website to retrieve the song names and then searches Spotify to 
 find corresponding song tracks. Finally, it creates a new private Spotify 
